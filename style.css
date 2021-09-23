@@ -35,6 +35,15 @@ body {
   color: var(--cloudy-text);
 }
 
+.select {
+  width: 50%;
+  font-size: 16px;
+  padding: 5px;
+  text-align: center;
+  /* background-color: #eeeeec; */
+  border-bottom: 2px dashed;
+  font-weight: 700;
+}
 .main__section {
   padding: 40px;
   width: 100%;
@@ -85,6 +94,6 @@ body {
   .main__section {
     max-width: 375px;
     margin: 0 auto;
-    height: 812px;
+    height: 850px;
   }
 }
